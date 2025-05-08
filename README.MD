@@ -4,8 +4,7 @@
     width="300"
     height="400"
     style="border-radius: 100%;"
-/></p>
-
+/>
 </p>
 
 <p align="center">
